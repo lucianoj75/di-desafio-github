@@ -16,3 +16,4 @@ Repositório criado para desafio Github na DIO
     - Ver o status do repositório local: `git status`. O novo arquivo será apontando como disponível para commit.
     - Adicionar o novo arquivo para iniciar o commit: `git add .` (o ponto "." significa tudo)
     - Fazer commit do novo arquivo: `git commit -m "Subida de arquivo no Github"` (o comentário é para explicar esse upload)
+    - Fazer push do commit para, de fato, o novo arquivo subir para o Gitub: `git push origin main` ("main" é o nome da branch quando foi criado o repositório no Github)
